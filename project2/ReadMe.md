@@ -25,4 +25,4 @@ Before using this Terraform script, ensure you have the following:
 To destroy the created infrastructure and release AWS resources:
 1. terraform destroy -auto-approve
    
-*If you don't use -auto-approve, then you You will be prompted to confirm the apply/destroy and have to enter yes to proceed.*
+*"If you don't use -auto-approve, then you You will be prompted to confirm the apply/destroy and have to enter yes to proceed."*
