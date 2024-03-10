@@ -1,4 +1,4 @@
-Web App Deployment on AWS Using Docker
+# Web App Deployment on AWS Using Docker
 This project aims to deploy a simple web app as a Docker container on the AWS cloud, allowing users to access the app via the public internet.
 Requirements
 1.	Create a Web App: A simple web app should be created or leverage an existing one, such as those available on GitHub.
