@@ -19,8 +19,8 @@ Deploy the app container on AWS by creating and launching an EC2 instance to ser
 ### GitHub Repository
 URL: Your Public GitHub Repo URL
 ### Architectural Diagrams
-### Below are the architectural diagrams depicting the setup:
-![Alt Text]([Project3/Diagram.png](https://github.com/auzadeh7049/WeCloudData-Projects/blob/main/Project3/Diagram.png?raw=true))
+### Below are the architectural diagrams depicting the setup:<br>
+
 <img width="615" alt="Diagram" src="https://github.com/auzadeh7049/WeCloudData-Projects/assets/150835470/99409db8-a568-4bf1-ba2d-c108666fbda5">
 
  
