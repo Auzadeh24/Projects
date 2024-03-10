@@ -3,7 +3,8 @@ This project aims to deploy a simple web app as a Docker container on the AWS cl
 ## Requirements
 1.	Create a Web App: A simple web app should be created or leverage an existing one, such as those available on GitHub.
 2.	Dockerize the App:
- Dockerize the web app by creating a Dockerfile with instructions to build a Docker image for the app.
+ Dockerize the web app by creating a Dockerfile with instr<img width="615" alt="Diagram" src="https://github.com/auzadeh7049/WeCloudData-Projects/assets/150835470/1d5e8a01-fb74-4ecf-b86d-547d69b87ce6">
+uctions to build a Docker image for the app.
 3.	Create a DockerHub Account: 
 If not already done, create a DockerHub account to host the Docker image.
 4.	Build and Push Docker Image: 
@@ -20,6 +21,7 @@ URL: Your Public GitHub Repo URL
 ### Architectural Diagrams
 ### Below are the architectural diagrams depicting the setup:
 ![Alt Text]([Project3/Diagram.png](https://github.com/auzadeh7049/WeCloudData-Projects/blob/main/Project3/Diagram.png?raw=true))
+<img width="615" alt="Diagram" src="https://github.com/auzadeh7049/WeCloudData-Projects/assets/150835470/99409db8-a568-4bf1-ba2d-c108666fbda5">
 
  
  ## Instructions for Accessing the Web App
