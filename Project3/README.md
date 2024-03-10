@@ -19,6 +19,7 @@ Deploy the app container on AWS by creating and launching an EC2 instance to ser
 URL: Your Public GitHub Repo URL
 ### Architectural Diagrams
 ### Below are the architectural diagrams depicting the setup:
+![Alt Text](image_url)
 
  
  ## Instructions for Accessing the Web App
