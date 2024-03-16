@@ -1,4 +1,4 @@
-#### Project 4
+# Project 4
 In this project, A web application will be deployed to leveraging multiple Docker images. We will orchestrate a multi-container setup using Docker Compose, hosting the web application containers environment on the AWS cloud to make it accessible via the public internet.
 Project Setup
 ## Requirements
