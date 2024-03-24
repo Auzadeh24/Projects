@@ -1,0 +1,12 @@
+version: '3.8'
+
+services:
+  api1:
+    build:
+      context: .
+      dockerfile: Dockerfile-auth
+
+  api2:
+    build:
+      context: .
+      dockerfile: Dockerfile-catalog
