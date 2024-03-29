@@ -1,0 +1,26 @@
+version: '3.8'
+
+services:
+  auth-api:
+    build:
+      context: ./auth_api
+      dockerfile: Dockerfile
+
+  catalog-api:
+    build:
+      context: ./catalog_api
+      dockerfile: Dockerfile
+
+  # Use root/example as user/password credentials
+  db:
+    image: mysql
+    command: --default-authentication-plugin=mysql_native_password
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: example
+
+  adminer:
+    image: adminer
+    restart: always
+    ports:
+      - 8081:8080
