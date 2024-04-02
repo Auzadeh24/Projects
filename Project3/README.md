@@ -36,13 +36,6 @@ URL: Your Public GitHub Repo URL
 Run the Docker container:
 “docker run -d -p 80:80 yourusername/webapp:latest”
 Access the web app via the public IP address of your EC2 instance.
-## Bonus
-To optimize the Docker image, consider the following:
-Optimize cache steps in the Dockerfile.
-Use smaller base images like Alpine or slim versions of Ubuntu.
-Utilize multi-build stages to minimize image size.
-For high availability and scalability, deploy app containers in EC2 instances as part of an autoscaling group and add an application load balancer in front.
 
-Alternatively, you can use AWS ECS to host your containerized web app instead of a traditional EC2 server with Docker engine installed.
  	
          
