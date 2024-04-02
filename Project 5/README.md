@@ -1,4 +1,4 @@
-### Project 5
+# Project 5
 
 ## Project Description
 In this project an API microservice connected to a database on AWS cloud infrastructure will be deployed. The API will have exposed endpoints that users can send HTTP requests to and get responses, with data returned as JSON payloads. The AWS infrastructure will include components like a VPC, internet gateway, public subnet, public route table, and EC2 instances.
