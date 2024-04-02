@@ -6,7 +6,7 @@ In this project an API microservice connected to a database on AWS cloud infrast
 ## Requirements
 **Database Creation:** <br><span style="font-weight:normal;"> Create a database to store data (e.g., NHL player stats) using any database server (MySQL, PostgreSQL, MongoDB, etc.).</span>
 **API Server:** Create an API server using any programming language and framework (e.g., FastAPI, Node.js + Express, Java Spring Boot).
-#**Endpoints:** Create GET endpoints for retrieving data from the database (e.g., /players, /toronto, /points).
+**Endpoints:** Create GET endpoints for retrieving data from the database (e.g., /players, /toronto, /points).
 **Deployment:** Deploy the database server and API microservice on AWS cloud, ensuring accessibility on the public internet.
 ##Documentation
 ###GitHub Repository
