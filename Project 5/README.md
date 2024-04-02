@@ -8,11 +8,11 @@ In this project an API microservice connected to a database on AWS cloud infrast
 <br>**API Server:** <br>Create an API server using any programming language and framework (e.g., FastAPI, Node.js + Express, Java Spring Boot).
 <br>**Endpoints:** <br>Create GET endpoints for retrieving data from the database (e.g., /players, /toronto, /points).
 <br>**Deployment:** <br>Deploy the database server and API microservice on AWS cloud, ensuring accessibility on the public internet.
-##Documentation
-###GitHub Repository
-###Architectural Diagrams
+## Documentation
+### GitHub Repository
+### Architectural Diagrams
 Architectural diagram depicting the AWS cloud infrastructure setup
-##Instructions
+## Instructions
 1.	Setting Up AWS Infrastructure: Follow the instructions in the provided scripts (AWS CLI, bash shell, boto3, Terraform, and/or Ansible) to provision the AWS infrastructure.
 2.	Database Creation: Execute scripts or commands to create the database and import the provided data (e.g., nhl-stats-2022.csv).
 3.	API Server Deployment: Deploy the API server using the chosen programming language and framework.
