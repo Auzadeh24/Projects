@@ -12,13 +12,6 @@ In this project an API microservice connected to a database on AWS cloud infrast
 ### GitHub Repository
 ### Architectural Diagrams
 Architectural diagram depicting the AWS cloud infrastructure setup
-## Instructions
-1.	Setting Up AWS Infrastructure: Follow the instructions in the provided scripts (AWS CLI, bash shell, boto3, Terraform, and/or Ansible) to provision the AWS infrastructure.
-2.	Database Creation: Execute scripts or commands to create the database and import the provided data (e.g., nhl-stats-2022.csv).
-3.	API Server Deployment: Deploy the API server using the chosen programming language and framework.
-4.	Endpoints: Access the API endpoints using the following URLs:
-•	/players: Returns the first 10 players from the data.
-•	/toronto: Returns all players from the Toronto Maple Leafs.
-•	/points: Returns top 10 players leading in points scored.
+
    
 
