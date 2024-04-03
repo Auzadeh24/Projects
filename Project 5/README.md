@@ -9,7 +9,7 @@ In this project an API microservice connected to a database on AWS cloud infrast
 <br>**Endpoints:** <br>Create GET endpoints for retrieving data from the database (e.g., /players, /toronto, /points).
 <br>**Deployment:** <br>Deploy the database server and API microservice on AWS cloud, ensuring accessibility on the public internet.
 ## Documentation
-** GitHub Repository:**<br>https://github.com/auzadeh7049/WeCloudData-Projects/tree/main
+**GitHub Repository:**<br>https://github.com/auzadeh7049/WeCloudData-Projects/tree/main
 **Architectural Diagrams**
 <br>Architectural diagram depicting the AWS cloud infrastructure setup
 
