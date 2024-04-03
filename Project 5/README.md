@@ -10,7 +10,7 @@ In this project an API microservice connected to a database on AWS cloud infrast
 <br>**Deployment:** <br>Deploy the database server and API microservice on AWS cloud, ensuring accessibility on the public internet.
 ## Documentation
 **GitHub Repository:**<br>https://github.com/auzadeh7049/WeCloudData-Projects/tree/main
-**Architectural Diagrams**
+###Architectural Diagrams
 <br>Architectural diagram depicting the AWS cloud infrastructure setup
 
    
