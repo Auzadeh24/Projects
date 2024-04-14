@@ -42,4 +42,4 @@
  ### Architectural Diagrams
 ### Below are the architectural diagrams depicting the setup:<br>
 
-<img width="615" alt="Diagram" src="https://github.com/auzadeh7049/Projects/blob/main/Project4-Docker_%20Compose/Diagram.png"           
+<img width="615" alt="Diagram" src="https://github.com/auzadeh7049/Projects/blob/main/project6-fastapi/Diagram6.jpg"           
