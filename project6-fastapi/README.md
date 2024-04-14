@@ -38,3 +38,8 @@
               <li>Deploy:</li>
               <p>This stage gets the Jenkins server to deploy the app into the container environment by
                 Docker, Docker compose, AWS EKSc. Using the corresponding Docker and/or Kubernetes manifest files.</p>
+
+ ### Architectural Diagrams
+### Below are the architectural diagrams depicting the setup:<br>
+
+<img width="615" alt="Diagram" src="https://github.com/auzadeh7049/Projects/blob/main/Project4-Docker_%20Compose/Diagram.png"           
