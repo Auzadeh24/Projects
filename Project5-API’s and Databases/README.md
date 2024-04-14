@@ -11,7 +11,8 @@ In this project an API microservice connected to a database on AWS cloud infrast
 ## Documentation
 **GitHub Repository:**<br>https://github.com/auzadeh7049/WeCloudData-Projects/tree/main
 ### Architectural Diagrams
-Architectural diagram depicting the AWS cloud infrastructure setup
+### Below are the architectural diagrams depicting the setup:<br>
 
+<img width="615" alt="Diagram" src="https://github.com/auzadeh7049/Projects/blob/main/Project4-Docker_%20Compose/Diagram.png"
    
 
