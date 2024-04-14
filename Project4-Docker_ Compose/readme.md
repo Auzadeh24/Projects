@@ -22,7 +22,7 @@ Project Setup
 ### Architectural Diagrams
 ### Below are the architectural diagrams depicting the setup:<br>
 
-<img width="615" alt="Diagram" src="https://github.com/auzadeh7049/Projects/Project4-Docker_ Compose/Diagram5.jpg>
+<img width="615" alt="Diagram" src="(https://github.com/auzadeh7049/Projects/blob/main/Project4-Docker_%20Compose/Diagram.png)>
 
 
 ### Access Instructions
