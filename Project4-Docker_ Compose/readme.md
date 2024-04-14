@@ -22,6 +22,12 @@ Project Setup
 ### Architectural Diagrams
 Include architectural diagrams depicting the AWS cloud infrastructure setup, the web app architecture, and any other pertinent visualizations.
 
+### Architectural Diagrams
+### Below are the architectural diagrams depicting the setup:<br>
+
+<img width="615" alt="Diagram" src="https://github.com/auzadeh7049/Projects/Project4-Docker_ Compose/Diagram5.jpg>
+
+
 ### Access Instructions
 1. Clone the GitHub repository to your local machine.
 2. Ensure you have Docker and Docker Compose installed on your system.
